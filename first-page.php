@@ -4,4 +4,8 @@
 
     echo 'Ma Ma';
 
+    echo 'Zaw Zaw';
+
+    echo 'Myo Myo';
+
 ?>
