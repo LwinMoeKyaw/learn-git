@@ -12,4 +12,6 @@
 
     echo "Min Min";
 
+    echo "Mg Mg is eating breakfast";
+
 ?>
