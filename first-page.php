@@ -14,4 +14,7 @@
 
     echo "Mg Mg is eating breakfast";
 
+    echo "May May";
+
+    echo "Mya Mya";
 ?>
