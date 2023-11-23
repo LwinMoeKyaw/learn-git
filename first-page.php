@@ -18,4 +18,5 @@
     
     echo "Mg Mg is eating breakfast";
 
+    echo "Bo Bo is playing"
 ?>
