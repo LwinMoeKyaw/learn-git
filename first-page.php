@@ -18,6 +18,16 @@
 
     echo "Mya Mya is cooking";
     
+    echo "Playing";
+
+    echo "Eating";
+
+    echo "going";
+
+    echo "thinking";
+
+    echo "sleeping";
+    
     echo "Mg Mg is eating breakfast";
 
     echo "Bo Bo is playing";
