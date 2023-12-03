@@ -15,6 +15,8 @@
     echo "May May";
 
     echo "Mya Mya";
+
+    echo "Mya Mya is cooking";
     
     echo "Mg Mg is eating breakfast";
 
